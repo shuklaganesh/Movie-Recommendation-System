@@ -1,4 +1,6 @@
 Movie Recommendation System
+
+
 This project involves building a movie recommendation system using association rule mining on the MovieLens dataset. The objective is to develop an effective recommendation system that suggests movies based on the association between rated movies. The following steps document the progress made in the project.
 
 Project Overview
